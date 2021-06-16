@@ -1,0 +1,57 @@
+{
+  "semesters": [
+    {
+      "id": "0",
+      "name": "Task 1",
+      "courses": [
+        {
+          "id": "c1",
+          "name": "Do assignment 1",
+          "grade": "Due"
+        },
+        {
+          "id": "c2",
+          "name": "Do project 2",
+          "grade": "Done"
+        }
+
+      ]
+    },
+    {
+      "id": "1",
+      "name": "Task 2",
+      "courses": [
+        {
+          "id": "c7",
+          "name": "Do programming Assignment 1",
+          "grade": "2"
+        },
+        {
+          "id": "c7",
+          "name": "Do programming Assignment 2",
+          "grade": "1"
+        },
+        {
+          "id": "c7",
+          "name": "Do programming Assignment 3",
+          "grade": "2"
+        }
+
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Task 3",
+      "courses": [
+        {
+          "id": "c13",
+          "name": "Prepare for exams",
+          "grade": "Not confirmed"
+        }
+
+      ]
+    }
+
+
+  ]
+}
